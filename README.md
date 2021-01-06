@@ -2,7 +2,7 @@
 Hello there, I am Oyindoubra "Dylee" Akposeye, I'm a passionate developer, financial market analyst, and well, I just want to see things work ☄
 
 ### Skillset
-This is my current skillset, adding more to the list as time goes on as I wander onto newer spaces!
+This is my current skillset, adding more to the list as time goes on and as I wander onto newer spaces!
 
 | Technology | Skill level  |
 | ---------- | -----------  |
