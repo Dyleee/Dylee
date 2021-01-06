@@ -33,8 +33,8 @@ Here is the list of technologies that I intend to improve to become proficient, 
 I love efficient and sophisticated code. I also admire optimization to the fullest, optimization & efficiency over explicitness is my go-to. I am currently accustomed to using VSCode to code but I've had extensive experience with Text Editors like Sublime Text 3, Atom and Komodo.
 
 ### Some stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dyleee&theme=merko&show_icons=true)](https://github.com/dyleee)<br>
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyleee&theme=merko)](https://github.com/dyleee)<br>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dyleee&theme=tokyonight&show_icons=true)](https://github.com/dyleee)<br>
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyleee&theme=tokyonight)](https://github.com/dyleee)<br>
 
 #### Social medias
 Twitter: https://twitter.com/iamdylee_<br>
